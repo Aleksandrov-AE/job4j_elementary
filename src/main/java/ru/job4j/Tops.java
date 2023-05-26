@@ -2,7 +2,7 @@ package ru.job4j;
 
 public class Tops {
     public static void main(String[] args) {
-        System.out.println("Error");
+        System.out.println("Errorrrr");
     }
 
 }
